@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.thexirr.com
+
+# Sitemaps
+Sitemap: https://www.thexirr.com/sitemap.xml
